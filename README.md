@@ -1,4 +1,4 @@
-QUESTION1
+1.BMI.C
 
 # Background
 The body mass index of a person is calucated using the formula
@@ -73,5 +73,5 @@ make sure that the file is called `bmi.c`.
 
 
 
-QUESTION 2
+2.ARMSTRONG.C
 TO CHECK WHETHER THE 3 DIGIT NUMBER IS AN ARMSTRONG
